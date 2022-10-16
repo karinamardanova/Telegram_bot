@@ -1,2 +1,2 @@
-# telegram_bot
+# Telegram_bot
 Бот для генерации банковских карт
